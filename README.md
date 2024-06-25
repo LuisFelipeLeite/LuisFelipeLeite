@@ -3,8 +3,8 @@
  
 
 ## I'm Luís Felipe Barbosa Leite!
-Computer Science student-UNIFAL 
-Programming in C/C++
+- Computer Science student-UNIFAL 
+- Programming in C/C++
 
 <!--
 **LuisFelipeLeite/LuisFelipeLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
