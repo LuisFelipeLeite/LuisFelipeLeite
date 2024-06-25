@@ -3,7 +3,7 @@
  
 
 ## I'm Luís Felipe Barbosa Leite!
-Computer science student-UNIFAL 
+Computer Science student-UNIFAL 
 
 <!--
 **LuisFelipeLeite/LuisFelipeLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
